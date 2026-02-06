@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ixalsera
 - 👀 I’m interested in some pretty niche stuff like combat robotics and Vocaloid, but also some more "normal" stuff like gaming.
-- 🌱 I’m currently learning Vue.js but also trying to grapple with Python (for Sims 4 modding) and Unity/Unreal for other game modding, and maybe my own titles in the future!
+- 🌱 I’m currently learning C++ for Nintendo homebrew creation but also trying to grapple with Python (for Sims 4 modding) and Unity/Unreal for other game modding, and maybe my own titles in the future!
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
